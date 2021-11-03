@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>940180835212-11t1jqre7pcn9lbskv12cs1qh4beuht3.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.940180835212-11t1jqre7pcn9lbskv12cs1qh4beuht3</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>940180835212-9l39lf000d2m52mnjf6lgnsb4npu6uqq.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCi1M7Fn8NLxo78Mfst1CrwpHPXY4WCDQY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>940180835212</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.aast.sheraton.enactus</string>
+	<key>PROJECT_ID</key>
+	<string>enactus-ce2e8</string>
+	<key>STORAGE_BUCKET</key>
+	<string>enactus-ce2e8.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:940180835212:ios:dc68f2289c7cbba663e4a9</string>
+</dict>
+</plist>
