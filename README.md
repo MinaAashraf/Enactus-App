@@ -1,4 +1,4 @@
-# Enactus AAST Sheraton
+![Google Pixel 4 XL Presentation](https://github.com/MinaAashraf/Enactus-App/assets/48159614/d43f2ba0-0b89-4690-97ce-9e3454690c9c)# Enactus AAST Sheraton
 
 ## About the app
    Flutter App for Enactus AAST Sheraton Family, It enables Enactus presidents, heads, and HRs to send weekly feedback and score to each member. It creates a
@@ -12,7 +12,7 @@
 ***
 
 ## Screen Shots
-![Screenshot 2023-09-03 125721](https://github.com/MinaAashraf/Enactus-App/assets/48159614/eaf9224a-ec40-403f-a2f3-501370326eee)
+![image1 (1)](https://github.com/MinaAashraf/Enactus-App/assets/48159614/053d7ed3-a31b-4725-aefb-7d92a8f87efa)
 
 
 
