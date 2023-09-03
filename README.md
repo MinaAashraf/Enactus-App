@@ -12,7 +12,7 @@
 ***
 
 ## Screen Shots
-![image1 (1)](https://github.com/MinaAashraf/Enactus-App/assets/48159614/053d7ed3-a31b-4725-aefb-7d92a8f87efa)
+<img src="https://github.com/MinaAashraf/Enactus-App/assets/48159614/053d7ed3-a31b-4725-aefb-7d92a8f87efa" width="1280" height="640">
 
 
 
