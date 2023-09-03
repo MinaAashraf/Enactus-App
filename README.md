@@ -12,8 +12,8 @@
 ***
 
 ## Screen Shots
+![Screenshot 2023-09-03 125721](https://github.com/MinaAashraf/Enactus-App/assets/48159614/eaf9224a-ec40-403f-a2f3-501370326eee)
 
-![Artboard 1](https://github.com/MinaAashraf/Enactus-App/assets/48159614/99bbd83d-5620-4235-81a5-ce7d83747d4e)
 
 
 
